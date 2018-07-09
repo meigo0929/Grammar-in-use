@@ -58,5 +58,21 @@ Let ...?|shall we?  |Let's go for a walk, shall we?|上揚
 祈使句(Do.../Listen.../Give...?)|will you?  |Listen to me, will you?|上揚
 **主詞為 I**|**aren't I**|"I'm right, aren't I?" "Yes, you are."|
 
+## Exercises
+附加問句
 
+1. There are a lot of people here, **aren't there**?
+2. He'd never met her before, **had he**?
+
+請求聽話者同意你的意見
+
+3. The course was great, wasn't it?
+4. She has a good voice, **doesn't she**?
+5. It doesn't look very good, doesn't it?
+6. You don't have paper bag, do you?
+
+詢問訊息或者請求某人做某事
+
+7. You don't know **where Ann is**, do you?
+8. You couldn't take me to the station, could you? 
 
